@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ServerSV">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ServerSV.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
